@@ -1,0 +1,1 @@
+export { GenBtn } from './Components/GenBtn'
